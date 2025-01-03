@@ -13,7 +13,7 @@ const { title, description } = Astro.props;
 <!doctype html>
 <html lang="en">
 	<BaseHead title={title} description={description} />
-	<body class="antialiased">
+	<body class="antialiased px-8 bg-zinc-950 text-zinc-50">
 		<main class="flex flex-col gap-8 max-w-screen-xl mx-auto py-8">
 			<Header />
 			<slot />
