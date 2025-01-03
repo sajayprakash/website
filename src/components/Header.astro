@@ -1,0 +1,26 @@
+---
+import { SITE_TITLE } from "../consts";
+
+const navLinks = [
+    {
+        name: "Blog",
+        href: "/blog"
+    },
+    {
+        name: "About",
+        href: "/about"
+    }
+]
+---
+<header>
+    <nav class="flex justify-between items-center">
+        <a href="/">{SITE_TITLE}</a>
+        <ul class="flex gap-4 items-center">
+            {
+                navLinks.map(
+                    (link) => <li><a href={link.href}>{link.name}</a></li>
+                )
+            }
+        </ul>
+    </nav>
+</header>
