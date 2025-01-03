@@ -1,8 +1,17 @@
 /** @type {import('tailwindcss').Config} */
+
+const defaultTheme = require('tailwindcss/defaultTheme')
+
+
 export default {
 	content: ['./src/**/*.{astro,html,js,jsx,md,mdx,svelte,ts,tsx,vue}'],
 	theme: {
-		extend: {},
+		extend: {
+			fontFamily: {
+				sans: ["Geist", ...defaultTheme.fontFamily.sans],
+				mono: ["Geist Mono", ...defaultTheme.fontFamily.mono],
+			}
+		},
 	},
 	plugins: [],
 }

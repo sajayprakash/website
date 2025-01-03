@@ -1,4 +1,5 @@
 ---
+import "../styles/base.css";
 import BaseHead from "../components/BaseHead.astro";
 import Header from "../components/Header.astro";
 
@@ -12,7 +13,7 @@ const { title, description } = Astro.props;
 <!doctype html>
 <html lang="en">
 	<BaseHead title={title} description={description} />
-	<body>
+	<body class="antialiased">
 		<main class="flex flex-col gap-8 max-w-screen-xl mx-auto py-8">
 			<Header />
 			<slot />
