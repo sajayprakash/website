@@ -15,15 +15,20 @@
   parent = "Posts"
   weight = 10
 [[main]]
+  name = "Megathread"
+  parent = "Posts"
+  pageRef = "megathread"
+  weight = 20
+[[main]]
   name = "Categories"
   pageRef = "categories"
   parent = "Posts"
-  weight = 20
+  weight = 30
 [[main]]
   name = "Tags"
   parent = "Posts"
   pageRef = "tags"
-  weight = 20
+  weight = 40
 [[main]]
   name = "About"
   pageRef = "about"
@@ -31,7 +36,7 @@
 
 # -- Footer Menu --
 
-#[[footer]]
-#  name = "Tags"
-#  pageRef = "tags"
-#  weight = 1
+[[footer]]
+  identifier = "rss"
+  pre = "rss"
+  weight = 1
