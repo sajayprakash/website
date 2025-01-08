@@ -72,6 +72,7 @@ disableTextInHeader = false
   showWordCount = false
   sharingLinks = [ "linkedin", "twitter", "bluesky", "mastodon", "reddit", "pinterest", "facebook", "email", "whatsapp", "telegram"]
   showZenMode = true
+  showComments = true
 
 [list]
   showHero = false
