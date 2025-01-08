@@ -10,6 +10,7 @@ showTaxonomies: false
 showTableOfContents: false
 showComments: false
 showSummary: false
+showPagination: false
 xml: false
 ---
 
