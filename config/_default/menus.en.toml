@@ -38,5 +38,7 @@
 
 [[footer]]
   identifier = "rss"
-  pre = "rss"
+  name ="RSS"
+  pre = "rss-square"
+  url = "/index.xml"  
   weight = 1
