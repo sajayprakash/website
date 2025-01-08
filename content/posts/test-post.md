@@ -19,3 +19,10 @@ tags: []
 # Hi
 This is just a test post
 
+```python
+def test():
+    a = 5
+    print("Hello World", a)
+
+test()
+```
