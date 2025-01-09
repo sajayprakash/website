@@ -1,9 +1,9 @@
 # -- Theme Options --
 
-colorScheme = "noir" # valid options: avocado, fire, ocean, forest, princess, neon, bloody, terminal, marvel, noir, autumn, congo, slate
+colorScheme = "blowfish" # valid options: blowfish, avocado, fire, ocean, forest, princess, neon, bloody, terminal, marvel, noir, autumn, congo, slate
+giscusTheme = "dark"
 defaultAppearance = "dark" # valid options: light or dark
 autoSwitchAppearance = false
-
 enableSearch = true
 enableCodeCopy = true
 
