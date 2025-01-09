@@ -1,6 +1,6 @@
 # -- Theme Options --
 
-colorScheme = "blowfish"
+colorScheme = "noir" # valid options: avocado, fire, ocean, forest, princess, neon, bloody, terminal, marvel, noir, autumn, congo, slate
 defaultAppearance = "dark" # valid options: light or dark
 autoSwitchAppearance = false
 
