@@ -12,7 +12,7 @@ title = "Sajay Prakash"
   # logo = "img/logo.png"
   # secondaryLogo = "img/secondary-logo.png"
   description = "Software engineer, digital minimalist, linux enthusiast."
-  copyright = "&copy; { year } Sajay Prakash"
+  copyright = "&copy; { year } Sajay Prakash. All rights reserved."
 
 [params.author]
   name = "Sajay Prakash"
