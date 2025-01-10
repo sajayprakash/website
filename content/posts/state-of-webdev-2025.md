@@ -3,6 +3,7 @@ title: "The current state of Web Development: A noobs perspective"
 date: 2025-01-10T12:32:42+05:30
 description: I have been learning and doing web development for the past 3 years starting with HTML, CSS and moving over to React and React frameworks. This post goes over why I think the web development ecosystem needs a change and is not beginner friendly.
 tags: ["web-dev", "programming", "career"]
+categories: ["blog"]
 # summary: ""
 # featureimage: ""
 # featureimagecaption: ""

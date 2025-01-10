@@ -1,9 +1,9 @@
 ---
-title: {{ replace .File.ContentBaseName "-" " " | title }}
+title: {{ replace .File.ContentBaseName "-" " " | title }} - Book Review
 date: {{ .Date }}
 description: ""
 tags: []
-categories: ["blog"]
+categories: ["book-review"]
 # summary: ""
 # featureimage: ""
 # featureimagecaption: ""
