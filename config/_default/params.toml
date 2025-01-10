@@ -22,7 +22,7 @@ smartTOC = true
 # smartTOCHideUnfocusedChildren = true
 
 [header]
-  layout = "fixed-fill" # valid options: basic, fixed, fixed-fill, fixed-gradient, fixed-fill-blur
+  layout = "fixed-gradient" # valid options: basic, fixed, fixed-fill, fixed-gradient, fixed-fill-blur
 
 [footer]
   showMenu = true
