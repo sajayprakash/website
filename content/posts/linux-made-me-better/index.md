@@ -17,21 +17,21 @@ Everybody knows about the two primary operating systems for computers - Windows 
 
 Linux is not really an operating system by itself, it is a kernel. Confused? Don't worry, let me explain - An operating system is basically your main system software that manages everything in your computer from hardware to software.
 
-![os-diagram](./os-diagram.webp)
+![os-diagram](./os-diagram.webp "Source: GeeksForGeeks")
 
 A kernel is one of the core parts of the operating system that acts like a middle-man between the software and your hardware. For example - let's say you wanted to print a document, first you would use the software like Microsoft Word or Google docs to send a print request to your printer. When you do this, the software sends a request (system call) to your operating system to print said document. This print request is then sent to the kernel which communicates with the printer through the USB interface, printer driver and we finally get our document printed.
 
-![kernel-diagram](./kernel-diagram.webp)
+![kernel-diagram](./kernel-diagram.webp "Source: GeeksForGeeks")
 As you can see, the kernel behaves as the interface between your applications and your hardware. Now let's get answer the main question - Linux by itself is just the kernel, for a fully functioning operating you need many more utilities on top of it. This is where the GNU utilities come into play, the GNU Software Foundation developed a bunch of utilities such as `ls`,`cp`,`mv`,`mkdir`, etc. which are common utilities that are used by most developers and you might also be familiar with them. So, when we add these GNU utilities (also known as coreutils) to the Linux kernel, we get our "Linux" operating system which is officially known as "GNU/Linux". Most people don't want to say the whole name because let's be honest "Linux" is easier to say so when we say "Linux" we are 99.999% of the times referring to "GNU/Linux".
 
 ## But nobody uses Linux right?
 
 Wrong! would you be surprised if I tell you that Linux is the most used operating system in the world? - Android is the most popular operating system and it's based on the Linux kernel, pretty much all the servers in the world running your favorite services such as Facebook, Instagram, Google, etc. use Linux! This is because Linux is extremely reliable for such purposes and is also free to use without the need to pay any company for licenses (unless you buy Red Hat Enterprise Linux).
 
-![statcounter-jan2025](./statcounter-jan2025.png)
+![statcounter-jan2025](./statcounter-jan2025.png "Source: statcounter")
 
 You could however make the argument that Linux is not popular on the desktop or laptop market and you would be right but Linux is slowly but steadily growing in market share every single year and the nuances surrounding Linux is fading away one by one. Gaming on Linux has gotten better, development on Linux has always been better, hardware support is also improving with companies such as NVIDIA open sourcing some of their driver modules. This growth is also thanks to companies such as Microsoft pushing horrible stuff onto their operating system, Windows has essential becoming a spyware and adware. Microsoft has also imposed artificial hardware limitations such as the requirement of TPM (Trusted Platform Module) which renders most perfectly usable machines unsupported for Windows 11. Meanwhile, Linux can run on a toaster!
-![linux-toaster](./linux-toaster.webp)
+![linux-toaster](./linux-toaster.webp "Source: marcelnerd from r/linuxmasterrace")
 Oh you thought I was joking? That's a toaster embedded with a Raspberry Pi running the Raspberry Pi OS which is one of the many Linux distributions out there. Linux distributions are like the many types of Linux operating systems and there are lots of them, about ~600 active ones. I would say only few of them matter such as Debian, Arch Linux, Fedora, NixOS, etc. but that's a reddit post debate I don't want to get into.
 
 ## Linux taught me more about computers
