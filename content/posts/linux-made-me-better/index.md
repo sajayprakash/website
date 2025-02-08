@@ -1,7 +1,7 @@
 ---
 title: How Linux made be a better developer
 date: 2025-02-05
-description:
+description: "Linux has had a profound impact on my life as well as my career as a developer, this post goes over how Linux taught me about operating systems, computers and also how it could possibly be the better operating system for you. Linux can breathe life into old hardware and also make you more productive."
 tags:
   - linux
   - career
