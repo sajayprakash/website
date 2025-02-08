@@ -31,7 +31,7 @@ Wrong! would you be surprised if I tell you that Linux is the most used operatin
 ![statcounter-jan2025](./statcounter-jan2025.png)
 
 You could however make the argument that Linux is not popular on the desktop or laptop market and you would be right but Linux is slowly but steadily growing in market share every single year and the nuances surrounding Linux is fading away one by one. Gaming on Linux has gotten better, development on Linux has always been better, hardware support is also improving with companies such as NVIDIA open sourcing some of their driver modules. This growth is also thanks to companies such as Microsoft pushing horrible stuff onto their operating system, Windows has essential becoming a spyware and adware. Microsoft has also imposed artificial hardware limitations such as the requirement of TPM (Trusted Platform Module) which renders most perfectly usable machines unsupported for Windows 11. Meanwhile, Linux can run on a toaster!
-![[linux-toaster.webp]]
+![linux-toaster](./linux-toaster.webp)
 Oh you thought I was joking? That's a toaster embedded with a Raspberry Pi running the Raspberry Pi OS which is one of the many Linux distributions out there. Linux distributions are like the many types of Linux operating systems and there are lots of them, about ~600 active ones. I would say only few of them matter such as Debian, Arch Linux, Fedora, NixOS, etc. but that's a reddit post debate I don't want to get into.
 
 ## Linux taught me more about computers
