@@ -28,7 +28,7 @@ As you can see, the kernel behaves as the interface between your applications an
 
 Wrong! would you be surprised if I tell you that Linux is the most used operating system in the world? - Android is the most popular operating system and it's based on the Linux kernel, pretty much all the servers in the world running your favorite services such as Facebook, Instagram, Google, etc. use Linux! This is because Linux is extremely reliable for such purposes and is also free to use without the need to pay any company for licenses (unless you buy Red Hat Enterprise Linux).
 
-![statcounter-jan2025](./statcounter-jan2025.png "Source: statcounter")
+![statcounter-jan2025](./statcounter-jan2025.webp "Source: statcounter")
 
 You could however make the argument that Linux is not popular on the desktop or laptop market and you would be right but Linux is slowly but steadily growing in market share every single year and the nuances surrounding Linux is fading away one by one. Gaming on Linux has gotten better, development on Linux has always been better, hardware support is also improving with companies such as NVIDIA open sourcing some of their driver modules. This growth is also thanks to companies such as Microsoft pushing horrible stuff onto their operating system, Windows has essential becoming a spyware and adware. Microsoft has also imposed artificial hardware limitations such as the requirement of TPM (Trusted Platform Module) which renders most perfectly usable machines unsupported for Windows 11. Meanwhile, Linux can run on a toaster!
 ![linux-toaster](./linux-toaster.webp "Source: marcelnerd from r/linuxmasterrace")
